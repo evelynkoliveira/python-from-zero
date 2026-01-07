@@ -1,2 +1,2 @@
-# phyton-from-zero
+# python-from-zero
 My first Python studies from scratch
